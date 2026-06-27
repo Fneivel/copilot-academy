@@ -1,0 +1,24 @@
+LANDING PAGE PREMIUM - COPILOT EXPERIENCE
+
+Arquivos principais:
+- index.html
+- css/style.css
+- js/main.js
+- assets/cover.png
+
+ANTES DE PUBLICAR:
+1. Abra o arquivo index.html.
+2. Procure por SEU_LINK_CHECKOUT_HOTMART_AQUI.
+3. Substitua pelo link real do checkout da Hotmart.
+
+GITHUB:
+Envie a pasta descompactada inteira para o repositório, mantendo a estrutura de pastas.
+Não envie o ZIP.
+
+RENDER:
+Tipo: Static Site
+Build Command: deixe vazio
+Publish Directory: .
+
+HOTMART:
+Em Página do Produto > Páginas externas > Configurar Página, cole a URL gerada pelo Render.
